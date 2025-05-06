@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Spotify Song Recommender</title>
+</head>
+<body>
+    <h1>Enter a Song Title</h1>
+    <form method="POST">
+        <input type="text" name="song" placeholder="Type a song..." required>
+        <button type="submit">Get Recommendations</button>
+    </form>
+
+    {% if recommendations %}
+        <h2>Recommended Songs:</h2>
+        <ul>
+            {% for rec in recommendations %}
+                <li>{{ rec }}</li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+</body>
+</html>
