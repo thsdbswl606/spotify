@@ -19,18 +19,23 @@ This project is a music recommender system built using a large Spotify dataset f
 
 - Built with Flask
 - Users can type in a song name and receive similar song recommendations
-- Optional version: Spotify OAuth to fetch real playlists (work-in-progress)
+- Optional version: Spotify OAuth to fetch real playlists by allowing users to log in using their real account (work-in-progress)
 
 ## 🚀 How to Run
 
 1. Clone the repo
 2. Install requirements: `pip install -r requirements.txt`
 3. Run the app: `python app/app.py`
-4. Open in browser: `http://127.0.0.1:5000/`
+4. Open in browser: `http://127.0.0.1:5000`
 
 ## 🧪 Demo
 
-(Add screenshots or a GIF of your web interface)
+<img width="357" alt="Screen Shot 2025-05-06 at 9 39 41 AM" src="https://github.com/user-attachments/assets/602f2f72-9315-45c3-badc-18dc77878ed3" />
+
+<img width="368" alt="Screen Shot 2025-05-06 at 9 39 29 AM" src="https://github.com/user-attachments/assets/8259f78a-db0f-4613-9b13-29070a54ec19" />
+
+<img width="618" alt="Screen Shot 2025-05-06 at 9 39 05 AM" src="https://github.com/user-attachments/assets/687b8e04-9efd-474b-aa9e-c17c44ccc339" />
+
 
 ## ✅ Future Work
 
