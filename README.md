@@ -32,6 +32,8 @@ This project is a music recommender system built using a large Spotify dataset f
 
 <img width="357" alt="Screen Shot 2025-05-06 at 9 39 41 AM" src="https://github.com/user-attachments/assets/602f2f72-9315-45c3-badc-18dc77878ed3" />
 
+type in the desired song 
+
 <img width="368" alt="Screen Shot 2025-05-06 at 9 39 29 AM" src="https://github.com/user-attachments/assets/8259f78a-db0f-4613-9b13-29070a54ec19" />
 
 <img width="618" alt="Screen Shot 2025-05-06 at 9 39 05 AM" src="https://github.com/user-attachments/assets/687b8e04-9efd-474b-aa9e-c17c44ccc339" />
