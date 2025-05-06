@@ -2,7 +2,7 @@
 
 This folder is reserved for information about the dataset used in this project.
 
-- **Dataset Source**: Kaggle ([link](https://www.kaggle.com/datasets/vatsalmavani/spotify-dataset))
+- **Dataset Source**: Kaggle 
 - **Size**: 220,000+ songs
 - **Song release date range**: Year 1920 – 2020
 - **Note**: Due to file size constraints, the full dataset is not included in this repository.
