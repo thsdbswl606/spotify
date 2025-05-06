@@ -7,8 +7,7 @@ This project is a music recommender system built using a large Spotify dataset f
 - Source: Kaggle
 - 220k+ songs
 - Key features: `danceability`, `energy`, `valence`, `popularity`, etc.
-- Note: Due to file size, the dataset is not included here. Please download from [([Kaggle link](https://www.kaggle.com/datasets/vatsalmavani/spotify-dataset))]
-- )].
+- Note: Due to file size, the dataset is not included here. Please download from [([Kaggle link](https://www.kaggle.com/datasets/vatsalmavani/spotify-dataset))]. 
 
 ## 🧠 Machine Learning
 
