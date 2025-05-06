@@ -39,12 +39,16 @@ This project is a music recommender system built using a large Spotify dataset f
 3. Get your recommendations!
 <img width="618" alt="Screen Shot 2025-05-06 at 9 39 05 AM" src="https://github.com/user-attachments/assets/687b8e04-9efd-474b-aa9e-c17c44ccc339" />
 
-
 ## ✅ Future Work
 
 - Improve model performance using deep learning (e.g. Autoencoders)
 - Better UI/UX
 - Complete Spotify OAuth version
+- Work on limitations of this system; now the recommendation is only based on songs within the data file. 
+E.g.)
+If song is not found in the dataset, it shows: 
+<img width="363" alt="Screen Shot 2025-05-06 at 9 41 57 AM" src="https://github.com/user-attachments/assets/d0a6912e-8260-48a2-bf99-eca61bd57dcf" />
+
 
 ## 🧑‍💻 Author
 
